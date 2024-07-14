@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a developer, currently working on my own project. 
 <!--
 **rishabh709/rishabh709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
