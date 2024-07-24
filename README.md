@@ -1,5 +1,10 @@
 ## Hello World!👋
-I'm a developer, currently working on my own project. 
+I'm a Developer, just got to code sometimes to solve the problems of the life and world's.
+- 🔭 I’m currently working on Score-Board project
+- 🌱 I’m currently learning Django
+- 👯 I’m looking to collaborate on web-development, application, AI-ML 
+- 🤔 I’m looking for help with getting industry experience
+
 <!--
 **rishabh709/rishabh709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
