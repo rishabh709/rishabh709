@@ -1,7 +1,6 @@
 ## Hello World!👋
 I'm a Developer, just got to code sometimes to solve the problems of the life and world's.
 - 🔭 I’m currently working on Score-Board project
-- 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on web-development, application, AI-ML 
 - 🤔 I’m looking for help with getting industry experience
 
